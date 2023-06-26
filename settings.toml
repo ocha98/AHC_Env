@@ -1,0 +1,4 @@
+in_dir = "./in/"
+out_dir = "./out/"
+exec_command = "./a.out"
+judge_command = "./vis"
